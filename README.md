@@ -1,6 +1,10 @@
 # CS-recall
 Revising my prior programming knowledge including programming concept with the language of Swift. Moreover learning SwiftUI contributing our personal app of Koffee Kulture.
 
+I'm using ** 100 days of SwiftUI by Paul Hudson : https://www.hackingwithswift.com/100/swiftui ** course complete outcome
+
+My Notes : its in MindNote ( it's my way of learning and recalling my knowledge )
+
 
 **Outcome goals - Tick if you know this in Swift**
 
